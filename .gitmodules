@@ -4,3 +4,6 @@
 [submodule "3Y1S-Archive"]
 	path = 3Y1S-Archive
 	url = git@github.com:sourovw/3Y1S-Archive.git
+[submodule "4Y1S-Archive"]
+	path = 4Y1S-Archive
+	url = git@github.com:sourovw/4Y1S-Archive.git
